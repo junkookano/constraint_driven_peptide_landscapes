@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Local/private files
+raw_data/
+private/
+local/
+
+# Temporary files
+*.tmp
+*.log
