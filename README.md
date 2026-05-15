@@ -17,11 +17,11 @@ Fig1/   Scripts, processed input tables, and README files for Figure 1
 Fig2/   Scripts, processed input tables, and README files for Figure 2
 Fig3/   Scripts, processed input tables, and README files for Figure 3
 Fig4/   Scripts, processed input tables, and README files for Figure 4
+```
 
-##Requirements
+## Requirements
 
 Install the required Python packages using:
-
 
 ```bash
 pip install -r requirements.txt
@@ -29,8 +29,7 @@ pip install -r requirements.txt
 
 The scripts were developed using Python 3.
 
-
-##Usage
+## Usage
 
 Run each script from the corresponding figure folder.
 
@@ -41,12 +40,12 @@ cd Fig2
 python3 Fig2a_rank_curve.py
 ```
 
-Each script reads processed input files from the local data/ folder and writes outputs to figs/ and/or results/, as described in the panel-specific README files.
+Each script reads processed input files from the local `data/` folder and writes outputs to `figs/` and/or `results/`, as described in the panel-specific README files.
 
-##Data
+## Data
 
-The data/ folders contain processed input tables required to reproduce the main figure panels. Raw sequencing data and larger intermediate files are not included in this repository and are described separately in the manuscript Data availability statement.
+The `data/` folders contain processed input tables required to reproduce the main figure panels. Raw sequencing data and larger intermediate files are not included in this repository and are described separately in the manuscript Data availability statement.
 
-##License
+## License
 
-This repository is released under the MIT License. See LICENSE.txt for details.
+This repository is released under the MIT License. See `LICENSE.txt` for details.

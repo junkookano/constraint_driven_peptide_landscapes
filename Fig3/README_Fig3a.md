@@ -49,7 +49,7 @@ The script requires the following Python packages:
 ---
 
 ## Example run
-From the directory containing `Fig3a_panel.py`, run:
+From the directory containing `Fig3a_medoid.py`, run:
 
 ```bash
 python3 Fig3a_medoid.py

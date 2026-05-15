@@ -48,7 +48,7 @@ The script requires the following Python packages:
 ---
 
 ## Example run
-From the directory containing `Fig3e_right_motif_convergence.py`, run:
+From the directory containing `Fig3e_right.py`, run:
 
 ```bash
 python3 Fig3e_right.py

@@ -51,7 +51,7 @@ The script requires the following Python packages:
 ---
 
 ## Example run
-From the directory containing `Fig3e_left_enrichment.py`, run:
+From the directory containing `Fig3e_left.py`, run:
 
 ```bash
 python3 Fig3e_left.py
