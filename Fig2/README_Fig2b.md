@@ -125,7 +125,7 @@ The script produces:
 * The input table is assumed to be a processed digital subtraction result table, not a raw count matrix.
 * The term E_cortex in the input file is displayed as Cerebrum in the figure for consistency with the manuscript.
 * The color scale is intentionally fixed to allow comparison across peptides within the displayed range.
-* Input filenames may be replaced with final submission filenames.
+
 
 ⸻
 

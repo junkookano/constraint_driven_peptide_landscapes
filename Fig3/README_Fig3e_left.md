@@ -20,7 +20,7 @@ The script performs the following steps:
 
 ---
 ## Script
-`Fig3e_left_enrichment.py`
+`Fig3e_left.py`
 
 ## Input file
 Place the following file in the `data/` directory located in the same folder as the script:
@@ -54,7 +54,7 @@ The script requires the following Python packages:
 From the directory containing `Fig3e_left_enrichment.py`, run:
 
 ```bash
-python3 Fig3e_left_enrichment.py
+python3 Fig3e_left.py
 ```
 
 ##Processing details
@@ -127,7 +127,7 @@ Both panels share the same x-axis limits for direct visual comparison.
 
 ##Directory structure
 Fig3/
-├── Fig3e_left_enrichment.py
+├── Fig3e_left.py
 ├── README_Fig3e_left.md
 ├── data/
 │   └── small_CPM_summary_table.csv

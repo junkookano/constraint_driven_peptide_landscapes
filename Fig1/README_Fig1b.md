@@ -11,7 +11,7 @@ Place the following file in the `data/` directory located in the same folder as 
 
 - `data/41organs_112525.csv`
 
-**Note:** The input CSV filename is currently provisional and may be updated for final submission.
+**Note:** Input files correspond to the processed tables used to generate the final figure panel.
 
 ## Output files
 Running the script generates the following files in the `figs/` directory:

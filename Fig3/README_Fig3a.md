@@ -16,7 +16,7 @@ The script performs the following steps:
 
 ---
 ## Script
-`Fig3a_panel.py`
+`Fig3a_medoid.py`
 
 
 ## Input files
@@ -52,7 +52,7 @@ The script requires the following Python packages:
 From the directory containing `Fig3a_panel.py`, run:
 
 ```bash
-python3 Fig3a_panel.py
+python3 Fig3a_medoid.py
 ```
 
 ##Processing details
@@ -102,7 +102,7 @@ The script:
 
 ##Directory structure
 Fig3/
-├── Fig3a_panel.py
+├── Fig3a_medoid.py
 ├── README_Fig3a.md
 ├── data/
 │   ├── df_capillary_pancreasFixed_umap_hdbscan_mcs50.csv

@@ -4,7 +4,7 @@ from __future__ import annotations
 Generate Fig. 1b bulk UMAP embedding.
 
 This script reproduces the bulk-organ UMAP visualization shown in Fig. 1b.
-Input CSV filenames are provisional and may be updated at final submission.
+Input files correspond to the processed tables used to generate the final figure panel.
 """
 
 from pathlib import Path

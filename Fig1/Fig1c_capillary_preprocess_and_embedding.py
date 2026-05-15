@@ -12,7 +12,7 @@ used for the capillary UMAP analysis:
 5) perform PCA and UMAP,
 6) save the processed embedding table and trained UMAP model.
 
-Input filenames are provisional and may be updated at final submission.
+Input files correspond to the processed tables used to generate the final figure panel.
 """
 
 from pathlib import Path

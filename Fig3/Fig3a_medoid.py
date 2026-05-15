@@ -7,7 +7,7 @@ This script reproduces the capillary and parenchyma embedding panels shown in
 Fig. 3a by plotting fixed, previously identified medoid coordinates on the
 corresponding UMAP embeddings.
 
-Input CSV filenames are provisional and may be updated at final submission.
+
 """
 
 from pathlib import Path

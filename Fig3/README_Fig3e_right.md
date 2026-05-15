@@ -18,7 +18,7 @@ The script performs the following steps:
 
 ---
 ## Script
-`Fig3e_right_motif_convergence.py`
+`Fig3e_right.py`
 
 ## Input file
 Place the following file in the `data/` directory located in the same folder as the script:
@@ -51,7 +51,7 @@ The script requires the following Python packages:
 From the directory containing `Fig3e_right_motif_convergence.py`, run:
 
 ```bash
-python3 Fig3e_right_motif_convergence.py
+python3 Fig3e_right.py
 ```
 
 ##Processing details
@@ -119,7 +119,7 @@ Notes
 Directory structure
 
 Fig3/
-├── Fig3e_right_motif_convergence.py
+├── Fig3e_right.py
 ├── README_Fig3e_right.md
 ├── data/
 │   └── small_CPM_summary_table.csv
