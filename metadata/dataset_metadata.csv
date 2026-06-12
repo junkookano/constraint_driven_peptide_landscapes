@@ -1,4 +1,4 @@
 dataset_id,dataset_type,species,condition,compartment_level,source_file,description
 bulk_41_organs,bulk,mouse,normal,whole organ,Fig1/data/41organs_112525.csv,Processed peptide-count/enrichment table used for whole-organ bulk landscape analyses.
 capillary_39_compartments,capillary,mouse,normal,capillary compartment,Fig1/data/normal_capillary.csv,Processed peptide-count table used for capillary-compartment landscape analyses.
-parenchyma_126_microenvironments,parenchyma,mouse,normal,parenchymal microenvironment,Fig1/data/parenchyma.csv,Processed peptide-count table used for parenchymal microenvironment landscape analyses.
+parenchyma_125_microenvironments,parenchyma,mouse,normal,parenchymal microenvironment,Fig1/data/parenchyma.csv,Processed peptide-count table used for parenchymal microenvironment landscape analyses.
